@@ -1,6 +1,6 @@
 "AddonInfo"
 {
-	"name"				"Stamina Reloaded"
+	"name"				"Stamina"
 	"version"			"0.1"
 	"up_date"			"16/04/16"
 	"author_name"			"Rhenar"
